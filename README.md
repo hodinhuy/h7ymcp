@@ -244,9 +244,22 @@ Phase 1 safety defaults:
 
 H7Y MCP began as a fork of the original CodexPro project.
 
+Original upstream repository:
+
+```text
+https://github.com/rebel0789/codexpro
+```
+
 This fork is maintained by Huy and focuses on a ChatGPT-first personal edition with simpler setup, safer defaults, local repo workflows, Developer Mode support, and reviewable MCP tool output.
 
 Thanks to the original CodexPro author(s) and contributors for the foundation this project builds on.
+
+If you want the GitHub sidebar "About" section to show this credit too, set it manually in the repository settings, for example:
+
+```text
+Description: Fork of rebel0789/codexpro with H7Y MCP personal-edition changes
+Website: https://github.com/rebel0789/codexpro
+```
 
 ## License
 
